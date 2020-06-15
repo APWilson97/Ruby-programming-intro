@@ -1,0 +1,1 @@
+'The user did not enter the sufficient amount of arguments when calling the method calculate_product, they only entered 1 when the method definition has 2 parameters'
