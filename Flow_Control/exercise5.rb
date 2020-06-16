@@ -1,0 +1,1 @@
+"Its because the only 'end' in the code is for the if/else statement and it is expecting an 'end' for the equal_to_four method which has not been found by the interpreter."
