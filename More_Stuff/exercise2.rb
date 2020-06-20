@@ -1,0 +1,1 @@
+'Nothing is printed because a .call method is not invoked on the block. It returns a new proc object'
