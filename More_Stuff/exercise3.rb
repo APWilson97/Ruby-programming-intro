@@ -1,0 +1,1 @@
+'It is a way of handling any possibility of an unexpected error occuring when running a program. It ensures that the program will continue being executed instead of being exited when an error occurs.'
