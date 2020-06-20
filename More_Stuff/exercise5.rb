@@ -1,0 +1,1 @@
+'An argument is expected when the execute method is called but the method parameter (block) is missing an ampersand symbol. So, a block cannot be passed as a parameter.'
